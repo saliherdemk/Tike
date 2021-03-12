@@ -1198,4 +1198,4 @@ async def open_json(ctx):
 
 
 
-Bot.run("Token")
+Bot.run("TOKEN")
