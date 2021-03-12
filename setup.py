@@ -656,7 +656,7 @@ async def racebet(ctx,money = 0):
                 await em.edit(embed = h)
 
                 time.sleep(0.5)
-                ı = discord.Embed(title ="Start!",description = """
+                ie = discord.Embed(title ="Start!",description = """
         ───────────
 ⠀ ⠀⠀ ⠀⠀ ⠀⠀ {} 
 ───────────
@@ -666,7 +666,7 @@ async def racebet(ctx,money = 0):
 ───────────
                 """.format(absolute[0],absolute[1],absolute[2]))
 
-                await em.edit(embed = ı)
+                await em.edit(embed = ie)
 
                 time.sleep(0.5)
             if final == 0 :
