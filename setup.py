@@ -1036,14 +1036,13 @@ You already joined!
             json.dump(users,f)
 
         loto[str(user.id)] = {}
-        loto[str(user.id)]["money"] = 200
         loto[str(user.id)]["name"] = user.name
 
         with open(f"{id}loto.json", "w") as f:
             json.dump(loto,f)
     
     if len(list(loto.keys())) == 5 :
-        lucky_index = random.randint(1,5)
+        lucky_index = random.randint(0,4)
         lucky_id = list(loto.keys())[lucky_index]
 
         embed = discord.Embed(description = """```fix
@@ -1058,11 +1057,8 @@ The winner is being selected!
         time.sleep(0.5)
         await ab.edit(embed = bb)
 
-        loto[str(lucky_id)]["money"] += 1000
+        users[str(lucky_id)]["wallet"] += 1000
         os.remove(f"{id}loto.json")
-
-        with open(f"{id}loto.json", "w") as f:
-            json.dump(loto,f)
 
         with open(f"{id}users.json", "w") as f:
             json.dump(users,f)
