@@ -1050,7 +1050,7 @@ You already joined!
 The winner is being selected!
 ```""")
 
-        bb = discord.Embed("""```bash
+        bb = discord.Embed(description = """```bash
 "{}, has won 1000 coins!"
 ```""".format(loto[str(lucky_id)]["name"]))
 
