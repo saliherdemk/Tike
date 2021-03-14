@@ -2,6 +2,8 @@
 
 <img src="https://github.com/saliherdemk/Tike/blob/master/media/logo.png" alt="Tike Logo" width="1000" height="500" />
 
+<img src="https://github.com/saliherdemk/Tike/blob/master/media/giphy.gif" alt="Tike Logo" width="1000" height="500" />
+
 This is a gambling discord bot.
 
 If you wondering , you can find an economy system , robbing people , send money , car race and more in this source code.
