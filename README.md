@@ -4,9 +4,7 @@
 <img src="https://github.com/saliherdemk/Tike/blob/master/media/race.gif"  width="500" height="300" />
 
 
-This is a gambling discord bot.
-
-If you wondering , you can find an economy system , robbing people , send money , car race and more in this source code.
+Tike bot is a open-source gambling discord bot which contains an economy system and more.
 
 # Contact
 
