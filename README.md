@@ -10,5 +10,5 @@ If you wondering , you can find an economy system , robbing people , send money 
 
 # Contact
 
-[Website](http://tyche.ga)⠀ ⠀⠀ ⠀|⠀ ⠀⠀ ⠀[Tike Bot](https://top.gg/bot/818200360819884062)⠀ ⠀⠀ ⠀|⠀ ⠀⠀ ⠀[Discord](https://discord.gg/vFCRRmd8)
+[Website](http://tyche.ga)⠀ ⠀⠀ ⠀|⠀ ⠀⠀ ⠀[Tike Bot](https://top.gg/bot/818200360819884062)⠀ ⠀⠀ ⠀|⠀ ⠀⠀ ⠀[Discord](https://discord.gg/Jk3pVbNeQu)
 
