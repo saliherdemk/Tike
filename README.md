@@ -2,7 +2,8 @@
 
 <img src="https://github.com/saliherdemk/Tike/blob/master/media/logo.png" alt="Tike Logo" width="1000" height="500" />
 
-<img src="https://github.com/saliherdemk/Tike/blob/master/media/giphy.gif" alt="Tike Logo" width="500" height="500" />
+<video width="320" height="240" autoplay>
+  <source src="" type="video/mp4">   </video>
 
 This is a gambling discord bot.
 
