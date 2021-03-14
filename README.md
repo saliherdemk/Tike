@@ -1,10 +1,13 @@
 # Tike Bot 
 
 <img src="https://github.com/saliherdemk/Tike/blob/master/media/logo.png"  width="1000" height="500" />
+
+Tike bot is a open-source gambling discord bot which contains an economy system and more.
+
 <img src="https://github.com/saliherdemk/Tike/blob/master/media/race.gif"  width="500" height="300" />
 
 
-Tike bot is a open-source gambling discord bot which contains an economy system and more.
+
 
 # Contact
 
