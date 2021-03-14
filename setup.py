@@ -581,11 +581,11 @@ async def racebet(ctx,money = 0):
                     await delete1.delete()
                     await delete2.delete()
                 elif str(message.content).lower() == "blue":
-                    chose = "::taxi::"
+                    chose = ":blue_car:"
                     await delete1.delete()
                     await delete2.delete()
                 else :
-                    liste = [":red_car:",":taxi:",":taxi:"]
+                    liste = [":red_car:",":taxi:",":blue_car:"]
                     randomly = liste[random.randint(0,2)]
                     chose = randomly
                     await ctx.send(f"Randomly {randomly} has been chosen.")
@@ -673,7 +673,7 @@ async def racebet(ctx,money = 0):
                 if absolute[0] == chose:
                     result = "You won!"
                     enough = """```bash
-"{}, you earned a bunch of {} coins! Your profit: {} "```""".format(user.name , money * 2 , money * 2 - money)
+"{}, you earned a bunch of {} coins! Your profit: {} "```""".format(member.name , money * 2 , money * 2 - money)
                     users[str(user.id)]["wallet"] += money * 2
                     users[str(user.id)]["win"] += 1
                     with open(f"{id}users.json", "w") as f:
@@ -682,7 +682,7 @@ async def racebet(ctx,money = 0):
                 else:
                     result = "You lost!"
                     enough = """```css
-[{}, you earned nothing!] Your profit: -{}```""".format(user.name , money)
+[{}, you earned nothing!] Your profit: -{}```""".format(member.name , money)
                 i = discord.Embed(title =f"{result}",description = """
         ──:checkered_flag:────────
 {} 
@@ -704,11 +704,11 @@ async def racebet(ctx,money = 0):
                     with open(f"{id}users.json", "w") as f:
                         json.dump(users,f)
                     enough = """```bash
-"{}, you earned a bunch of {} coins! Your profit: {} "```""".format(user.name , money * 2 , money * 2 - money)
+"{}, you earned a bunch of {} coins! Your profit: {} "```""".format(member.name , money * 2 , money * 2 - money)
                 else:
                     result = "You lost!"
                     enough = """```css
-[{}, you earned nothing!] Your profit: -{}```""".format(user.name , money)
+[{}, you earned nothing!] Your profit: -{}```""".format(member.name , money)
                 j = discord.Embed(title =f"{result}",description = """
         ──:checkered_flag:────────
 ⠀⠀ {} 
@@ -729,11 +729,11 @@ async def racebet(ctx,money = 0):
                     with open(f"{id}users.json", "w") as f:
                         json.dump(users,f)
                     enough = """```bash
-"{}, you earned a bunch of {} coins! Your profit: {}"```""".format(user.name , money * 2 , money * 2 - money)
+"{}, you earned a bunch of {} coins! Your profit: {}"```""".format(member.name , money * 2 , money * 2 - money)
                 else:
                     result = "You lost!"
                     enough = """```css
-[{}, you earned nothing!] Your profit: -{}```""".format(user.name , money)
+[{}, you earned nothing!] Your profit: -{}```""".format(member.name , money)
                 k = discord.Embed(title =f"{result}",description = """
         ──:checkered_flag:────────
 ⠀⠀ ⠀⠀⠀ {} 
@@ -793,7 +793,7 @@ If you fail you lose 50% of your coins to your target user. 1 rob try per day.
 
 **Contact**:
 
-[Official Server](https://discord.gg/vFCRRmd8)  |  [Invite](https://discord.com/oauth2/authorize?client_id=818200360819884062&scope=bot&permissions=1073769472)
+[Official Server](https://discord.gg/Jk3pVbNeQu)  |  [Invite](https://discord.com/oauth2/authorize?client_id=818200360819884062&scope=bot&permissions=1073769472)
 
 
 
