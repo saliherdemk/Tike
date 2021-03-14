@@ -1,10 +1,8 @@
 # Tike Bot 
 
 <img src="https://github.com/saliherdemk/Tike/blob/master/media/logo.png" alt="Tike Logo" width="1000" height="500" />
+<img src="https://github.com/saliherdemk/Tike/blob/master/media/last.gif" alt="Tike Logo" width="500" height="300" />
 
-<video width="320" height="240" autoplay>
-  <source src="media/2021-03-14_18-16-36.mp4" type="video/mp4"> 
-</video>
 
 This is a gambling discord bot.
 
