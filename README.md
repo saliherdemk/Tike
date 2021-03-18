@@ -6,6 +6,8 @@ Tike bot is a open-source gambling discord bot written with discord.py library w
 
 <img src="https://github.com/saliherdemk/Tike/blob/master/media/race.gif"  width="500" height="300" />
 
+This source code is no longer maintained. İt's like substructure of the bot. I hope it helps.
+
 
 
 
