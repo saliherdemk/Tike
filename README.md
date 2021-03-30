@@ -13,5 +13,5 @@ This source code is no longer maintained. It's like basics of the bot. I hope it
 
 # Contact
 
-[Tike Bot](https://top.gg/bot/818200360819884062)⠀ ⠀⠀ ⠀|⠀ ⠀⠀ ⠀[Invite](https://discord.com/oauth2/authorize?client_id=818200360819884062&permissions=1074031616&scope=bot)⠀ ⠀⠀ ⠀|⠀ ⠀⠀ ⠀[Discord](https://discord.gg/Jk3pVbNeQu)
+[Website](http://tikebot.ga/)⠀ ⠀⠀ ⠀|⠀ ⠀⠀ ⠀[Tike Bot](https://top.gg/bot/818200360819884062)⠀ ⠀⠀ ⠀|⠀ ⠀⠀ ⠀[Invite](https://discord.com/oauth2/authorize?client_id=818200360819884062&permissions=1074031616&scope=bot)⠀ ⠀⠀ ⠀|⠀ ⠀⠀ ⠀[Discord](https://discord.gg/Jk3pVbNeQu)
 
