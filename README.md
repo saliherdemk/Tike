@@ -10,5 +10,5 @@ Tike bot is a open-source gambling discord bot written with discord.py library w
 
 # Contact
 
-[Website](http://tikebot.ga/)⠀ ⠀⠀ ⠀|⠀ ⠀⠀ ⠀[Tike Bot](https://top.gg/bot/818200360819884062)⠀ ⠀⠀ ⠀|⠀ ⠀⠀ ⠀[Discord](https://discord.gg/Jk3pVbNeQu)
+[Website](http://tikebot.ga/)⠀ ⠀⠀ ⠀|⠀ ⠀⠀ ⠀[Tike Bot](https://top.gg/bot/818200360819884062)
 
