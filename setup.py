@@ -2075,4 +2075,4 @@ async def on_ready():
     await Bot.change_presence(activity=activity)
 
 
-Bot.run("ODI1NzQwOTEyNDQ5MjkwMjYx.YGCVJw.vm1iWO-EYpmZ5WPmuta-LZTbibM")
+Bot.run("TOKEN")
